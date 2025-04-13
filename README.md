@@ -2,7 +2,7 @@
 
 <p>Welcome to the Console Banking Application, a simple text-based banking system written in Java. This application allows users to check their exiting account balances, deposit and withdraw funds, all within a console interface.<p>
 
-<p1> Features <p1>
+<P1> Features <P1>
 1. Check your account balance.
 2. Deposit funds into your account.
 3. Withdraw funds from your account.
