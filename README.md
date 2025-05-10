@@ -10,4 +10,5 @@
 4. Check your account balance.
 5. Handle insufficient funds scenarios during withdrawals.
 
-
+![Project Screenshot](https://github.com/pavanpanche/simple-console-based-banking-application/blob/main/Log%20in%20image.png?raw=true
+)
